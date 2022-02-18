@@ -7,7 +7,7 @@ Studi kasus diambil dari soal UKK tahun 2020 jurusan Rekayasa Perangkat Lunak, S
 ### Donate
 - Dana         : 082318009200
 - BCA          : 4994515596
-- Tether(USDT) :
+- Tether(USDT) : 0xcde99e2b3e11c961e2aa86bb9002400143ddcd3b
 
 ### Persyaratan
 
